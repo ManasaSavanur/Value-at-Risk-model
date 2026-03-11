@@ -1,6 +1,9 @@
 # Monte-Carlo-simulation
 This repository provides an implementation of a Monte Carlo Simulation. Monte Carlo methods are widely used for solving problems in various fields, such as finance, physics, engineering, and more. The simulation uses random sampling to estimate numerical results and is particularly useful for modeling systems with inherent uncertainty.
 
+<img width="1000" height="600" alt="VaR" src="https://github.com/user-attachments/assets/5b5895f8-ff73-4721-b077-b49606442fdb" />
+
+
 # 📌 Key Features
 Pulls real historical price data using the yfinance library.
 
